@@ -12,3 +12,4 @@ C:\Users\kamog\OneDrive\Documents\Software_dev_learning\BankingApp\obj\Debug\net
 C:\Users\kamog\OneDrive\Documents\Software_dev_learning\BankingApp\obj\Debug\net8.0\BankingApp.pdb
 C:\Users\kamog\OneDrive\Documents\Software_dev_learning\BankingApp\obj\Debug\net8.0\BankingApp.genruntimeconfig.cache
 C:\Users\kamog\OneDrive\Documents\Software_dev_learning\BankingApp\obj\Debug\net8.0\ref\BankingApp.dll
+C:\Users\kamog\OneDrive\Documents\Software_dev_learning\BankingApp\obj\Debug\net8.0\BankingApp.sourcelink.json
