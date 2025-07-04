@@ -4,6 +4,7 @@ obj/
 
 # Visual Studio folder
 .vs/
+Software_dev_learning.sln
 
 # Rider IDE
 .idea/
