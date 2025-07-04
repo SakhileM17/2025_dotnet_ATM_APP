@@ -1,5 +1,6 @@
 ﻿using System;
-using BankingAppFeatures;
+using BankingApp.core;
+
 
 namespace BankingApplication
 {
@@ -8,12 +9,7 @@ namespace BankingApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to EKQi Finances");
-
-            BankAccount myAccount = new BankAccount(5000, "Sakhile", "Mkhalele", "85656", "Cheque");
-
-            myAccount.showUserDetails();
-            myAccount.showUserBalance();
+            AppStarter.Start();
         }
     }
 }
