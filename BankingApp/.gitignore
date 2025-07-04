@@ -1,0 +1,25 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio folder
+.vs/
+
+# Rider IDE
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
